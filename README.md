@@ -11,3 +11,9 @@ JS放在keyword.js中，HTML+CSS太过简单，需要者自行修改即可！
 计划加入微信二维码，可以扫码加好友
 
  - [ ] 计划加入登陆 https://gitee.com/intBear/landing_page
+
+
+
+简单的搜索
+
+https://quickso.eu.org/
