@@ -17,6 +17,7 @@ $(function () {
 
   var search_types = [
     { url: 'https://www.baidu.com/s?wd=', type: 'baidu' },
+    { url: 'https://quickso.eu.org/search', type: 'quickso' },
     { url: 'https://kaifa.baidu.com/searchPage?wd=', type: 'develop' },
     { url: 'https://www.sogou.com/web?query=', type: 'sogou' },
     { url: 'https://cn.bing.com/search?q=', type: 'bing' },
