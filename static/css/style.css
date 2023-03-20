@@ -130,7 +130,6 @@ textarea {
     align-items: center;
     justify-content: center;
     background: url("./img/scgoogle.png") center center no-repeat;
-    filter: grayscale(100%);
     -webkit-filter: grayscale(100%);
     -moz-filter: grayscale(100%);
     -o-filter: grayscale(100%);
@@ -142,7 +141,6 @@ textarea {
 }
 
 .search-logo:hover {
-    filter: grayscale(0%);
     -webkit-filter: grayscale(0%);
     -moz-filter: grayscale(0%);
     -o-filter: grayscale(0%);
@@ -265,21 +263,18 @@ textarea {
     height: 54px;
     line-height: 26px;
     /* background: url("./img/search.png") #1890ff 48px center no-repeat; */
-    background-color: #1890FF;
-    /* background-image: url("./img/search.png"); 
+    /* background-image: url("./img/search.png");
     background-size: 48px; */
-    background-repeat: no-repeat;
-    background-position: center;
     -webkit-background-size: 35px 35px;
     background-size: 35px 35px;
     color: #fff;
     font-size: 18px;
     font-weight: 500;
     text-align: center;
-    font-family: Roboto;
+    font-family: Roboto, serif;
     border: 1px solid #1890ff;
     cursor: pointer;
-    background: linear-gradient(90deg, #1890FF, #455bfb);
+    background: #1890FF linear-gradient(90deg, #1890FF, #455bfb) no-repeat center;
 }
 
 /* 搜索框 end */
