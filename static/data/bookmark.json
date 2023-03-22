@@ -79,18 +79,6 @@
           "_class": ""
         },
         {
-          "title": "文件助手",
-          "descr": "",
-          "href": "https://filehelper.weixin.qq.com/",
-          "_class": ""
-        },
-        {
-          "title": "微信传输",
-          "descr": "",
-          "href": "https://filehelper.weixin.qq.com/",
-          "_class": ""
-        },
-        {
           "title": "youglish",
           "descr": "",
           "href": "https://youglish.com/",
@@ -115,33 +103,9 @@
           "_class": ""
         },
         {
-          "title": "即刻",
-          "descr": "",
-          "href": "https://web.okjike.com/feed/",
-          "_class": ""
-        },
-        {
           "title": "V2EX",
           "descr": "",
           "href": "https://www.v2ex.com/",
-          "_class": ""
-        },
-        {
-          "title": "微博",
-          "descr": "",
-          "href": "https://weibo.com/",
-          "_class": ""
-        },
-        {
-          "title": "豆瓣",
-          "descr": "",
-          "href": "https://www.douban.com/",
-          "_class": ""
-        },
-        {
-          "title": "产品经理",
-          "descr": "",
-          "href": "http://www.woshipm.com/",
           "_class": ""
         },
         {
@@ -274,12 +238,6 @@
           "title": "网易云音乐",
           "descr": "",
           "href": "https://music.163.com/",
-          "_class": ""
-        },
-        {
-          "title": "go中文社区",
-          "descr": "",
-          "href": "https://gocn.vip/",
           "_class": ""
         }
       ]
